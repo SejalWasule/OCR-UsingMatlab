@@ -1,11 +1,12 @@
 # OCR-Using Matlab
+
 ## INTRODUCTION
 
-❏ The presentation presents introduction, objectives, Literature review and Methodology that we used in our project - Optical Character Recognition . 
-
 ❏ OCR is generally an "offline" process, which analyzes a static document. Handwriting movement analysis can be used as input to handwriting recognition.
-
 ❏ OCR has enabled scanned documents to become more than just image files, turning into fully searchable documents with text content recognized by computers. 
+❏ Optical Character Recognition extracts the relevant information and automatically enters it into electronic database instead of the conventional way of manually retyping the text.
+❏ Optical Character Recognition is a vast field with a number of varied applications such as invoice imaging, legal industry, banking, health care industry, etc.
+❏ OCR is also widely used in many other fields like Captcha, Institutional repositories and digital libraries, Optical Music Recognition without any human correction or human effort .
 
 ## METHODOLOGY
 ### 1) IMAGE EXTRACTION :
